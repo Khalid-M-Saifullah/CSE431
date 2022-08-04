@@ -12,7 +12,7 @@ Automatic Detection of Fake News
 
 
 Link to the paper:
-https://aclanthology.org/C18-1287.pdf](https://aclanthology.org/C18-1287.pdf/ 
+https://aclanthology.org/C18-1287.pdf/ 
 
 
 Group Number:

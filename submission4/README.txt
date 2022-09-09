@@ -9,7 +9,7 @@ Classification of Bangla Songs through Lyrics using
 NLP and Transformer Models
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1BvB6Ujgc7-qR2O0uEpZliqBxZaYrn_mEqr93mCSGNeU/edit?usp=sharing 
 
 Paper submission date (to workshop/conference):
 
